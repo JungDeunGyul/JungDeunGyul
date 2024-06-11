@@ -6,11 +6,11 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>&nbsp
@@ -27,22 +27,23 @@
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AWS%20SDK-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">🚀 My Projects 🚀</h3>
 <p align="center">
-  <a href="https://github.com/itsComments">
-    <img src="https://img.shields.io/badge/itsComments-123456?style=flat-square&logo=GitHub&logoColor=white" alt="itsComments" />
-  </a>
   <a href="https://github.com/JungDeunGyul/FILER-front">
-    <img src="https://img.shields.io/badge/Filer%20Frontend-789ABC?style=flat-square&logo=GitHub&logoColor=white" alt="Filer Frontend" />
+    <img height="40" src="https://img.shields.io/badge/Filer%20Frontend-789ABC?style=flat-square&logo=GitHub&logoColor=white" alt="Filer Frontend" />
+  </a>
+  <a href="https://github.com/JungDeunGyul/itsComments-Extension">
+    <img height="40" src="https://img.shields.io/badge/itsComments-123456?style=flat-square&logo=GitHub&logoColor=white" alt="itsComments" />
   </a>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://glory-salad-b1a.notion.site/b583b5a7c37643d6b5f43cb8a11696f4?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-  <a href="mailto:ask7384@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ask7384@gmail.com"/></a>
+  <a href="https://addcomments.notion.site/Study-Log-f1f89278e7c44ced8d8c6f3ff55f5837?pvs=4"><img height="40" src="https://img.shields.io/badge/Study_Log-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <a href="mailto:jdg930216@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jdg930216@gmail.com"/></a>
 </p>
 
 <p align="center">
